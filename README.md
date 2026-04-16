@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Cloud+Engineer+in+training;Backend+Developer;Building+AI-powered+applications;AWS+%7C+Python+%7C+Docker+%7C+Flask+%7C+LangChain+%7C+PyTorch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Cloud+Engineer;Backend+Developer;Building+AI-powered+applications;AWS+%7C+Python+%7C+Docker+%7C+Flask+%7C+LangChain+%7C+PyTorch" alt="Typing SVG" />
 </p>
 
 ---
