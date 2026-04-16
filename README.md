@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oluwatoni Ajaka</h1>
-<h3 align="center">Cloud & AI Developer | Software Engineering Student | Building real-world systems with Python, AWS, Flask, Docker, LangChain, and PyTorch</h3>
+<h3 align="center">Cloud & AI Developer | Information Technology Student | Building real-world systems with Python, AWS, Flask, Docker, LangChain, and PyTorch</h3>
 
 <p align="center">
   <a href="mailto:toniajaka06@gmail.com">
