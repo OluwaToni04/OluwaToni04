@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner2.png" alt="Oluwatoni Ajaka Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Oluwatoni Ajaka</h1>
 <h3 align="center">Cloud & AI Developer | Information Technology Student | Building real-world systems with Python, AWS, Flask, Docker, LangChain, and PyTorch</h3>
 
